@@ -11,7 +11,7 @@ Steps to Run the Project
 
 Clone the repository:
 ```js
-git clone https://github.com/your-username/doc-booking.git
+git clone https://github.com/your-username/doc-booker.git
 cd doc-booking
 ```
 
