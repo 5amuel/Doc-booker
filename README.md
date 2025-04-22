@@ -1,4 +1,3 @@
-# doc-booker
 DocBooking
 DocBooking is a React + TypeScript application designed to streamline appointment booking with doctors. It features a clean UI, reusable components, and modern development tools like Vite and ESLint.
 
@@ -7,11 +6,12 @@ Prerequisites
 Node.js (v16 or higher)
 npm or yarn
 
+////////////////////////////////////////////////////////////////////
 Steps to Run the Project
 
 Clone the repository:
 ```js
-git clone https://github.com/your-username/doc-booker.git
+git clone https://github.com/your-username/doc-booking.git
 cd doc-booking
 ```
 
@@ -44,7 +44,7 @@ npm run preview
 yarn preview
 ```
 
-
+///////////////////////////////////////////////////////////////////////
 How AI Tools Were Used
 This project leveraged AI tools to:
  - Generate random images to be used as Mocked images in the project.
@@ -72,6 +72,7 @@ Error Handling:
  - Add error messages for invalid inputs or failed API calls.
 
 
+////////////////////////////////////////////////////////////////////////////
 
 # React + TypeScript + Vite
 
